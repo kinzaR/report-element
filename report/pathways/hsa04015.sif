@@ -1,0 +1,97 @@
+7	activation	16
+7	activation	15
+8	activation	9
+9	activation	35
+9	activation	36
+15	activation	17
+16	activation	17
+32	activation	33
+32	activation	34
+33	activation	61
+34	activation	35
+35	activation	40
+35	activation	41
+36	activation	38
+37	activation	38
+39	activation	23
+40	activation	59
+41	activation	60
+42	activation	43
+43	activation	44
+49	activation	50
+50	activation	17
+55	activation	17
+56	inhibition	57
+61	activation	39
+87	activation	88
+89	activation	84 86 85 84 86
+90	activation	91
+91	activation	87
+98	activation	36
+53 54	activation	55
+6 20	activation	7
+6 20	activation	49
+6 20	activation	53 54
+77 79	activation	61
+24	inhibition	6 20
+26	inhibition	6 20
+69	inhibition	6 20
+44	activation	6 20
+38	activation	6 20
+60	activation	6 20
+59	activation	6 20
+23	activation	6 20
+22	activation	6 20
+57	activation	6 20
+84 86	activation	6 20
+88	activation	6 20
+84 86 85 84 86	activation	84 86
+7	activation	81
+81	activation	82
+10	activation	27
+6 20	inhibition	10
+10	activation	11
+12	activation	30
+51	activation	30
+97	activation	30
+6 20	activation	97
+6 20	activation	12
+6 20	activation	51
+13	activation	14
+6 20	activation	13
+28	activation	73
+52	activation	74
+73	activation	18
+74	activation	18
+6 20	activation	28
+6 20	activation	52
+4	activation	3
+5	activation	4
+29	activation	4
+6 20	activation	29
+71 72	activation	29
+71 72	activation	5
+66	activation	67
+6 20	activation	66
+94	inhibition	95
+6 20	inhibition	94
+47	activation	100 101 48
+55	activation	100 101 48
+45 46	activation	47
+6 20	activation	45 46
+6 20	activation	96
+71 72	activation	96
+62	activation	63
+90	activation	92
+3	activation	3_func
+27	activation	27_func
+11	activation	11_func
+30	activation	30_func
+14	activation	14_func
+100 101 48	activation	100 101 48_func
+63	activation	63_func
+67	activation	67_func
+18	activation	18_func
+82	activation	82_func
+95	activation	95_func
+96	activation	96_func

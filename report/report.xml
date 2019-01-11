@@ -1,0 +1,23 @@
+<report tool='compare'>
+	<input-params>
+	</input-params>
+	<output-params>
+		<section level='0' title='Input parameters'></section>
+		<param level='1' key='species' value='hsa'></param>
+		<download level='1' title='Expression file' file='brca_example1_40_exp_1_.txt'></download>
+		<download level='1' title='Design file' file='brca_example1_40__random_continuous.txt'></download>
+		<param level='1' key='Comparison' value='Correlation with a continuous variable'></param>
+		<param level='1' key='Design file' value='brca_example1_40__random_continuous.txt'></param>
+		<param level='1' key='Decomposed paths' value='FALSE'></param>
+		<section level='0' title='Path values'></section>
+		<download level='1' title='Path values' file='paths_vals.txt'></download>
+		<table level='1' title='Path significance' file='paths_significance.txt' page-size='10'></table>
+		<section level='0' title='Pathways'></section>
+		<pathwayViewer level='1' path-type='session' path='report/pathways'></pathwayViewer>
+		<section level='0' title='Function based analysis'></section>
+		<download level='1' title='GO terms values' file='go_vals.txt'></download>
+		<table level='1' title='GO term significance' file='go_significance.txt' page-size='10'></table>
+		<download level='1' title='Uniprot keywords values' file='uniprot_vals.txt'></download>
+		<table level='1' title='Uniprot keyword significance' file='uniprot_significance.txt' page-size='10'></table>
+	</output-params>
+ </report>

@@ -1,0 +1,169 @@
+id	status	color	head	42	43	44	33	35	37	97	54	38	41	100	24	26	30	27	45	61	79	103	58 59	55	62	63	64	65	66	104	68	69	70	67	76
+3_activation_42	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4_activation.down_3	DOWN	#1f78b4	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+4_activation_3	DOWN	darkgrey	directed	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5_activation.down_4	DOWN	#1f78b4	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+5_activation_4	DOWN	darkgrey	directed	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+9_activation.down_6 48	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+9_activation_6 48	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+14_activation.down_15	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+14_activation_15	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+15_activation.down_8 13	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+15_activation_8 13	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+50_activation.down_6 48	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+50_activation_6 48	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+51_activation.down_6 48	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+51_activation_6 48	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+52_inhibition.down_6 48	DOWN	#1f78b4	inhibited	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+52_inhibition_6 48	DOWN	darkgrey	inhibited	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+53_inhibition.down_6 48	DOWN	#1f78b4	inhibited	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+53_inhibition_6 48	DOWN	darkgrey	inhibited	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+84_activation.down_51	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+84_activation_51	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+85_activation.down_51	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+85_activation_51	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+86_activation.down_84	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+86_activation_84	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+87_activation.down_85	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+87_activation_85	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+87_activation.down_86	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+87_activation_86	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+87_activation.down_105	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+87_activation_105	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+88_activation.down_89	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+88_activation_89	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+89_activation.down_50	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+89_activation_50	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+94_activation.down_95	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+94_activation_95	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+95_activation.down_88	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+95_activation_88	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+105_activation.down_106	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+105_activation_106	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+106_activation.down_51	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+106_activation_51	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_5	DOWN	#1f78b4	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_5	DOWN	darkgrey	directed	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+8 16_activation.down_9	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+8 16_activation_9	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+8 17_activation.down_9	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+8 17_activation_9	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+8 13_activation.down_9	DOWN	#1f78b4	directed	0	0	1	0	1	0	0	0	0	1	0	1	1	1	1	1	0	1	0	1	1	0	0	0	0	0	0	0	0	0	0	0
+8 13_activation_9	DOWN	darkgrey	directed	1	1	0	1	0	1	1	1	1	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+3_activation_43	DOWN	darkgrey	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+3_activation.down_44	DOWN	#1f78b4	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10_activation.down_11	DOWN	#1f78b4	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10_activation_11	DOWN	darkgrey	directed	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11_inhibition_32	DOWN	darkgrey	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12_activation.down_10	DOWN	#1f78b4	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12_activation_10	DOWN	darkgrey	directed	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+32_inhibition_33	DOWN	darkgrey	inhibited	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_12	DOWN	#1f78b4	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_12	DOWN	darkgrey	directed	0	0	0	1	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11_activation.down_34	DOWN	#1f78b4	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+34_activation.down_35	DOWN	#1f78b4	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+11_inhibition_36	DOWN	darkgrey	inhibited	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+36_activation_37	DOWN	darkgrey	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+10_activation_18	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+12_activation_19	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+18_activation_19	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19_activation_97	DOWN	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_18	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_56 57	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_56 57	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+56 57_activation_18	DOWN	darkgrey	directed	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+19_activation_54	DOWN	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20_activation.down_23	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+20_activation_23	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21_activation.down_23	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+21_activation_23	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22_activation.down_23	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+22_activation_23	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23_activation.down_39	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23_activation_39	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23_activation_38	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39_activation_40	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+40_activation_38	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_20	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_20	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_21	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_21	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_22	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation_22	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+39_activation.down_41	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23_activation_98	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+98_activation_99	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+99_activation_100	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+23_activation.down_24	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25_activation.down_29	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+29_activation.down_26	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_25	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+25_activation.down_30	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28_activation.down_27	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_28	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+28_activation.down_45	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+60_activation_61	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_inhibition_60	DOWN	darkgrey	inhibited	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+77_activation.down_78	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+78_activation.down_79	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_77	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+102_inhibition_103	DOWN	darkgrey	inhibited	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_inhibition_102	DOWN	darkgrey	inhibited	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+56 57_activation.down_58 59	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+6 48_activation.down_55	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+71_activation_62	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+72_activation_62	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+75_activation_62	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+80_activation.down_71	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+80_activation_71	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0
+80_activation.down_72	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0
+80_activation_72	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+81_activation.down_71	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+81_activation_71	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0
+81_activation.down_72	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	1	0
+81_activation_72	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+81_activation.down_75	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+81_activation_75	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	0	0	1
+82_activation.down_71	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0
+82_activation_71	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	1	1	1	1	1	0	0
+71_activation_63	UP	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+71_activation.down_64	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+72_activation.down_64	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+75_activation.down_64	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+71_activation.down_65	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+72_activation.down_65	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+71_activation_66	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+75_activation_66	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+71_activation_104	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+71_activation_68	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+75_activation_68	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+71_activation_69	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+75_activation_69	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+71_activation_70	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+72_activation.down_67	DOWN	#1f78b4	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+75_activation_76	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+42_activation_42_func	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+43_activation_43_func	DOWN	darkgrey	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+44_activation_44_func	DOWN	darkgrey	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+97_activation_97_func	DOWN	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+54_activation_54_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+38_activation_38_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+24_activation_24_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+27_activation_27_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+45_activation_45_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+26_activation_26_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+33_activation_33_func	DOWN	darkgrey	directed	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+35_activation_35_func	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+37_activation_37_func	DOWN	darkgrey	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+41_activation_41_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+61_activation_61_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+62_activation_62_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+64_activation_64_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+65_activation_65_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+104_activation_104_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+69_activation_69_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+70_activation_70_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+76_activation_76_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+100_activation_100_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+55_activation_55_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+58 59_activation_58 59_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0

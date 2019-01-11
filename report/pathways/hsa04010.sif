@@ -1,0 +1,215 @@
+1	activation	96
+5	inhibition	80
+11	activation.up	123 125
+11	activation	123 125
+16	activation	15
+17	activation	16
+17	activation	15
+80	activation	16
+80	activation	17
+90	activation	80
+94	activation.up	123 125
+94	activation	123 125
+95	activation.up	123 125
+95	activation	123 125
+96	activation	90
+99	activation	90
+99	activation.up	95
+99	activation	95
+99	activation	89 92
+100	activation	90
+100	activation.up	94
+100	activation	94
+100	activation.up	95
+100	activation	95
+100	activation	89 92
+102	activation.up	99
+102	activation	99
+103	activation.up	100
+103	activation	100
+105	activation.up	123 125
+105	activation	123 125
+126	activation	16
+126	activation	17
+128	activation.up	123 125
+128	activation	123 125
+89 92	activation	80
+123 125	activation	16
+6	activation	98
+59	activation	61
+60	activation	61
+69	activation	59
+69	activation	60
+70	inhibition	81
+71	activation	69
+72	activation	69
+73	inhibition	69
+74	inhibition	69
+75	inhibition	71
+75	inhibition	72
+76	inhibition	81
+80	activation	71
+80	activation	72
+81	activation	71
+81	activation	72
+82	activation	71
+82	activation	72
+93	activation	81
+94	activation	81
+97	activation	93
+98	activation	93
+101	activation	97
+60	activation	79
+69	activation	104
+104	activation	79
+69	activation	68
+69	activation	67
+73	inhibition.up	111
+73	inhibition	111
+74	inhibition.up	111
+74	inhibition	111
+75	inhibition.up	110
+75	inhibition	110
+75	inhibition.up	112 113
+75	inhibition	112 113
+75	inhibition.up	112 124
+75	inhibition	112 124
+75	inhibition.up	112 114
+75	inhibition	112 114
+76	inhibition.up	112 113
+76	inhibition	112 113
+76	inhibition.up	112 124
+76	inhibition	112 124
+76	inhibition.up	112 114
+76	inhibition	112 114
+83	activation.up	110
+83	activation	110
+84	activation.up	110
+84	activation	110
+85	activation.up	110
+85	activation	110
+110	activation.up	111
+110	activation	111
+111	activation	67
+115	inhibition.up	111
+115	inhibition	111
+116	inhibition.up	111
+116	inhibition	111
+108 127	activation.up	109 123
+108 127	activation	109 123
+109 123	activation.up	110
+109 123	activation	110
+112 113	activation.up	111
+112 113	activation	111
+112 124	activation.up	111
+112 124	activation	111
+112 114	activation.up	111
+112 114	activation	111
+123 125	activation.up	112 113
+123 125	activation	112 113
+123 125	activation.up	112 124
+123 125	activation	112 124
+123 125	activation.up	112 114
+123 125	activation	112 114
+69	activation	66
+111	activation	66
+69	activation	65
+69	activation	64
+69	activation	63
+69	activation	62
+69	activation	58
+80	activation	57
+2	activation	32
+3	inhibition	18
+4	inhibition	18
+7	activation	27
+7	activation	29
+8	activation	29
+8	activation	30
+18	activation	135
+18	activation	136
+22	activation	19 21
+22	activation	19 20
+23	activation	19 21
+23	activation	19 20
+24	activation	19 21
+24	activation	19 20
+25	inhibition	32
+26	inhibition	32
+27	activation	23
+27	activation	32
+28	activation	24
+29	activation	28
+30	activation	32
+31	inhibition	32
+32	activation	22
+32	activation	23
+32	activation	24
+33	activation	32
+35	activation	31
+41	activation	2
+41	activation	33
+42	activation	36 37
+43	activation	36 38
+44	activation	36 39
+45	activation	36 40
+46	activation	36 40
+47	activation	36 40
+126	activation	19 21
+126	activation	19 20
+135	activation	134
+136	activation	134
+19 21	activation	18
+19 20	activation	18
+34 36	activation	32
+123 125	activation	19 21
+123 125	activation	19 20
+36 37	activation	34 36
+36 38	activation	34 36
+36 39	activation	34 36
+36 40	activation	34 36
+18	activation	130 130 132 133
+130 130 132 133	activation	129
+18	activation	14
+18	activation	13
+18	activation	12
+18	activation	131
+111	activation.up	118
+111	activation.up	117
+111	inhibition	120
+121	activation	120
+111	inhibition	119
+121	activation	119
+55	activation	54
+56	activation	55
+91	activation	78
+95	activation	106
+105	activation	106
+106	activation	107
+95	activation	87
+99	activation	88 92
+100	activation	88 92
+94	activation	86
+15	activation	15_func
+13	activation	13_func
+12	activation	12_func
+131	activation	131_func
+61	activation	61_func
+79	activation	79_func
+68	activation	68_func
+67	activation	67_func
+66	activation	66_func
+65	activation	65_func
+64	activation	64_func
+63	activation	63_func
+62	activation	62_func
+58	activation	58_func
+57	activation	57_func
+86	activation	86_func
+87	activation	87_func
+88 92	activation	88 92_func
+118	activation	118_func
+117	activation	117_func
+120	activation	120_func
+119	activation	119_func
+134	activation	134_func

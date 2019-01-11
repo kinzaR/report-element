@@ -1,0 +1,117 @@
+<script src="bower_components/cba-elements/src/manager/cba-manager.js"></script>
+
+<link rel="import" href="bower_components/polymer/polymer.html">
+<link rel="import" href="bower_components/iron-flex-layout/iron-flex-layout-classes.html">
+
+<link rel="import" href="bower_components/cba-elements/src/report/elm-report.html">
+
+<dom-module id="report-element">
+    <style is="custom-style" include="iron-flex iron-flex-reverse iron-flex-alignment iron-flex-factors iron-positioning"></style>
+    <style>
+         :host {
+            display: block;
+            position: relative;
+            cursor: default;
+            font-size: 13px;
+            background-color: var(--default-primary-color);
+            height: 100%;
+            width: 100%;
+        }
+        .content {
+            position: absolute;
+            width: 100%;
+            top: 50px;
+            /*height: calc(100vh - 60px);*/
+            /*background-color: transparent;*/
+        }
+
+
+        @media (max-width: 1100px) {
+            .option-text {
+                display: none;
+            }
+        }
+        elm-report {
+            height: calc(100vh - 50px);
+            overflow-y: auto;
+        }
+        #description {
+            color: var(--text-primary-color);
+            font-weight: normal;
+            font-size: 30px;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            width: 100%;
+            text-align: center;
+        }
+        .headerReport{
+            position: absolute;
+            top: 0;
+            width: 100%;
+
+        }
+        .icon {
+            margin-top: 0px !important;
+            margin-bottom: 0px !important;
+        }
+        .title {
+            font-size: 30px;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            overflow: hidden;
+            color: var(--dark-button-color );
+        }
+
+    </style>
+    <template>
+
+        <!--Report page -->
+        <div id="description" class="description">
+                Pathways analysis report
+            </div>
+        <div class="headerReport horizontal main layout center" >
+            <div class="icon" >
+                <img src="images/icon.svg" style="height: 44px;margin: 5px 3px 0 0;">
+            </div>
+            <div class="title" style="margin-left:15px;" >
+                <span>hi</span><span style="font-weight:normal">P</span><span>athia</span>
+            </div>
+
+        </div>
+
+
+        <div id="jobContent" class="content">
+                
+            <elm-report id="report"></elm-report>
+        </div>
+    
+    </template>
+
+    <script>
+        Polymer({
+            is: "report-element",
+            properties: {
+            },
+            ready: function() {
+                var me = this;
+                //handleJobSelect/
+                var job = {};
+                job.LocalFile="report";
+                job.folder={};
+                job.description="";
+                job.tool="hipathia";
+                job.createdAt="";
+                var path = document.location.pathname;
+                var alldirectory = path.substring(path.indexOf('/'), path.lastIndexOf('/'));
+                var directory = alldirectory.substring(alldirectory.lastIndexOf('/')+1, alldirectory.length );
+                job.name= directory;
+                
+                this.$.report.hideJobInformation = true;
+                this.$.report.set('job', job);
+                
+                
+            }
+        });
+    </script>
+</dom-module>

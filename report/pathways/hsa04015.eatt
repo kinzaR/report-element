@@ -1,0 +1,98 @@
+id	status	color	head	17	82	27	11	30	14	18	3	67	95	100 101 48	96	63	92
+7_activation_16	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+7_activation_15	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+8_activation_9	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+9_activation_35	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+9_activation_36	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+15_activation_17	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+16_activation_17	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+32_activation_33	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+32_activation_34	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+33_activation_61	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+34_activation_35	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+35_activation_40	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+35_activation_41	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+36_activation_38	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+37_activation_38	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+39_activation_23	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+40_activation_59	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+41_activation_60	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+42_activation_43	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+43_activation_44	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+49_activation_50	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+50_activation_17	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+55_activation_17	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+56_inhibition_57	DOWN	darkgrey	inhibited	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+61_activation_39	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+87_activation_88	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+89_activation_84 86 85 84 86	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+90_activation_91	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+91_activation_87	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+98_activation_36	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+53 54_activation_55	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+6 20_activation_7	DOWN	darkgrey	directed	1	1	0	0	0	0	0	0	0	0	0	0	0	0
+6 20_activation_49	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	0	0	0	0
+6 20_activation_53 54	DOWN	darkgrey	directed	1	0	0	0	0	0	0	0	0	0	1	0	0	0
+77 79_activation_61	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+24_inhibition_6 20	DOWN	darkgrey	inhibited	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+26_inhibition_6 20	DOWN	darkgrey	inhibited	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+69_inhibition_6 20	DOWN	darkgrey	inhibited	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+44_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+38_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+60_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+59_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+23_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+22_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+57_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+84 86_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+88_activation_6 20	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+84 86 85 84 86_activation_84 86	DOWN	darkgrey	directed	1	1	1	1	1	1	1	1	1	1	1	1	0	0
+7_activation_81	DOWN	darkgrey	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+81_activation_82	DOWN	darkgrey	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+10_activation_27	DOWN	darkgrey	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+6 20_inhibition_10	DOWN	darkgrey	inhibited	0	0	1	1	0	0	0	0	0	0	0	0	0	0
+10_activation_11	UP	darkgrey	directed	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+12_activation_30	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+51_activation_30	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+97_activation_30	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+6 20_activation_97	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+6 20_activation_12	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+6 20_activation_51	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+13_activation_14	DOWN	darkgrey	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+6 20_activation_13	DOWN	darkgrey	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+28_activation_73	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+52_activation_74	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+73_activation_18	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+74_activation_18	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+6 20_activation_28	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+6 20_activation_52	UP	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+4_activation_3	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+5_activation_4	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+29_activation_4	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+6 20_activation_29	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+71 72_activation_29	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+71 72_activation_5	UP	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+66_activation_67	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+6 20_activation_66	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+94_inhibition_95	UP	darkgrey	inhibited	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+6 20_inhibition_94	UP	darkgrey	inhibited	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+47_activation_100 101 48	UP	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+55_activation_100 101 48	UP	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+45 46_activation_47	UP	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+6 20_activation_45 46	UP	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+6 20_activation_96	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+71 72_activation_96	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0
+62_activation_63	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+90_activation_92	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	0	1
+3_activation_3_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	1	0	0	0	0	0	0
+27_activation_27_func	DOWN	darkgrey	directed	0	0	1	0	0	0	0	0	0	0	0	0	0	0
+11_activation_11_func	DOWN	darkgrey	directed	0	0	0	1	0	0	0	0	0	0	0	0	0	0
+30_activation_30_func	DOWN	darkgrey	directed	0	0	0	0	1	0	0	0	0	0	0	0	0	0
+14_activation_14_func	DOWN	darkgrey	directed	0	0	0	0	0	1	0	0	0	0	0	0	0	0
+100 101 48_activation_100 101 48_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	1	0	0	0
+63_activation_63_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	0	1	0
+67_activation_67_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	1	0	0	0	0	0
+18_activation_18_func	DOWN	darkgrey	directed	0	0	0	0	0	0	1	0	0	0	0	0	0	0
+82_activation_82_func	DOWN	darkgrey	directed	0	1	0	0	0	0	0	0	0	0	0	0	0	0
+95_activation_95_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	1	0	0	0	0
+96_activation_96_func	DOWN	darkgrey	directed	0	0	0	0	0	0	0	0	0	0	0	1	0	0

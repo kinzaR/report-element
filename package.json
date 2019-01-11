@@ -1,0 +1,23 @@
+{
+    "name": "report-element",
+    "description": "An element is for visualizing report",
+    "version": "1.0.0",
+    "license": "GPL-3.0",
+    "author": { 
+        "name" : "Kinza Rian"
+        , "email" : "rian.kinza@gmail.com"
+        , "url" : "http://clinbioinfosspa.es/people"
+        },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kinzaR/report-element.git"
+    },
+    "scripts": {
+        "build": "node ./buildReport.js"
+    },
+    "devDependencies": {
+        "async": "^2.1.5",
+        "shelljs": "^0.7.7",
+        "vulcanize": "1.14.8"
+    }
+}

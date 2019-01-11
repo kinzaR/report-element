@@ -1,0 +1,168 @@
+3	activation	42
+4	activation.down	3
+4	activation	3
+5	activation.down	4
+5	activation	4
+9	activation.down	6 48
+9	activation	6 48
+14	activation.down	15
+14	activation	15
+15	activation.down	8 13
+15	activation	8 13
+50	activation.down	6 48
+50	activation	6 48
+51	activation.down	6 48
+51	activation	6 48
+52	inhibition.down	6 48
+52	inhibition	6 48
+53	inhibition.down	6 48
+53	inhibition	6 48
+84	activation.down	51
+84	activation	51
+85	activation.down	51
+85	activation	51
+86	activation.down	84
+86	activation	84
+87	activation.down	85
+87	activation	85
+87	activation.down	86
+87	activation	86
+87	activation.down	105
+87	activation	105
+88	activation.down	89
+88	activation	89
+89	activation.down	50
+89	activation	50
+94	activation.down	95
+94	activation	95
+95	activation.down	88
+95	activation	88
+105	activation.down	106
+105	activation	106
+106	activation.down	51
+106	activation	51
+6 48	activation.down	5
+6 48	activation	5
+8 16	activation.down	9
+8 16	activation	9
+8 17	activation.down	9
+8 17	activation	9
+8 13	activation.down	9
+8 13	activation	9
+3	activation	43
+3	activation.down	44
+10	activation.down	11
+10	activation	11
+11	inhibition	32
+12	activation.down	10
+12	activation	10
+32	inhibition	33
+6 48	activation.down	12
+6 48	activation	12
+11	activation.down	34
+34	activation.down	35
+11	inhibition	36
+36	activation	37
+10	activation	18
+12	activation	19
+18	activation	19
+19	activation	97
+6 48	activation	18
+6 48	activation.down	56 57
+6 48	activation	56 57
+56 57	activation	18
+19	activation	54
+20	activation.down	23
+20	activation	23
+21	activation.down	23
+21	activation	23
+22	activation.down	23
+22	activation	23
+23	activation.down	39
+23	activation	39
+23	activation	38
+39	activation	40
+40	activation	38
+6 48	activation.down	20
+6 48	activation	20
+6 48	activation.down	21
+6 48	activation	21
+6 48	activation.down	22
+6 48	activation	22
+39	activation.down	41
+23	activation	98
+98	activation	99
+99	activation	100
+23	activation.down	24
+25	activation.down	29
+29	activation.down	26
+6 48	activation.down	25
+25	activation.down	30
+28	activation.down	27
+6 48	activation.down	28
+28	activation.down	45
+60	activation	61
+6 48	inhibition	60
+77	activation.down	78
+78	activation.down	79
+6 48	activation.down	77
+102	inhibition	103
+6 48	inhibition	102
+56 57	activation.down	58 59
+6 48	activation.down	55
+71	activation	62
+72	activation	62
+75	activation	62
+80	activation.down	71
+80	activation	71
+80	activation.down	72
+80	activation	72
+81	activation.down	71
+81	activation	71
+81	activation.down	72
+81	activation	72
+81	activation.down	75
+81	activation	75
+82	activation.down	71
+82	activation	71
+71	activation	63
+71	activation.down	64
+72	activation.down	64
+75	activation.down	64
+71	activation.down	65
+72	activation.down	65
+71	activation	66
+75	activation	66
+71	activation	104
+71	activation	68
+75	activation	68
+71	activation	69
+75	activation	69
+71	activation	70
+72	activation.down	67
+75	activation	76
+42	activation	42_func
+43	activation	43_func
+44	activation	44_func
+97	activation	97_func
+54	activation	54_func
+38	activation	38_func
+24	activation	24_func
+27	activation	27_func
+45	activation	45_func
+26	activation	26_func
+33	activation	33_func
+35	activation	35_func
+37	activation	37_func
+41	activation	41_func
+61	activation	61_func
+62	activation	62_func
+64	activation	64_func
+65	activation	65_func
+104	activation	104_func
+69	activation	69_func
+70	activation	70_func
+76	activation	76_func
+100	activation	100_func
+55	activation	55_func
+58 59	activation	58 59_func

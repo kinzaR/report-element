@@ -1,0 +1,20 @@
+{
+    "name": "report-element",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#1.8.1",
+        "fontawesome": "4.7.0",
+        "cba-elements": "https://github.com/kinzaR/cba-elements.git",
+        "network-viewer": "https://github.com/babelomics/network-viewer.git#develop",
+        "pathway-viewer": "https://github.com/babelomics/pathway-viewer.git#v1.0"
+
+    },
+    "private": true
+}
+

@@ -1,0 +1,63 @@
+<style is="custom-style">
+     :root {
+        --dark-primary-color: #3f6d65;
+        --default-primary-color: #79afa6;
+        /*--dark-primary-color: #222;
+        --default-primary-color: #333;*/
+        --light-primary-color: #fafafa;
+        --light-secondary-color: #EDEDED;
+        --text-primary-color: #FFFFFF;
+        --accent-color: #f98c60;
+        --light-button-color: #f98c60;
+        --dark-button-color: #ec6b39;
+        /*--accent-color: #da6868;
+        --light-button-color: #ff6161;
+        --dark-button-color: #d65151;*/
+        --primary-text-color: #212121;
+        --secondary-text-color: #727272;
+        --divider-color: #ccc;
+        --hover-color: #eee;
+        --selected-color: #bbb;
+    }
+</style>
+<style>
+    [hidden] {
+        display: none !important;
+    }
+
+    html,
+    body {
+        font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, 'sans-serif' !important;
+        font-size: 13px;
+    }
+
+    body.fullbleed {
+        margin: 0;
+        height: 100vh;
+    }
+
+    body[unresolved] {
+        opacity: 0;
+        display: block;
+        overflow: hidden;
+        position: relative;
+    }
+
+    body {
+        transition: opacity ease-in 0.2s;
+    }
+
+    a {
+        transition: color 0.1s linear;
+        text-decoration: none;
+        color: var(--text-primary-color);
+    }
+
+    a:hover {
+        text-decoration: underline;
+    }
+
+    elm-header>.main {
+        font-weight: 300;
+    }
+</style>
